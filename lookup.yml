@@ -1,0 +1,8 @@
+MR:
+  all: pet motion
+  some: mr mri
+CT:
+  all: pet motion ct
+optical:
+  all: pet motion
+  some: optical camera
